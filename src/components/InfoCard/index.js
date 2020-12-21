@@ -31,6 +31,8 @@ const InfoCard = ({ id, fullname, population, officialCurrencies }) => {
             Currency Name: {currency.name} <br />
             Currency Code: {currency.code} <br />
             Symbol : {currency.symbol} <br />
+            Base Currency: {currency.baseCurrency} <br />
+            Exchange Rate: {currency.exchangeRateWithBaseCurrency}
             <br />
             <CurrencyConversion>
               <Heading2>Convert SEK to {currency.code}</Heading2>
