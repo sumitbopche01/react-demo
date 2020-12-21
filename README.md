@@ -1,17 +1,16 @@
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Get Started
 
-### `npm run build`
+* Start node service https://github.com/sumitbopche01/node-demo before proceeding.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![home](public/images/homePage.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+npm install
+npm start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ * Sign up or use sumit as username and abs as password to login
+ * Search country name
+ * Enter amount which is in SEK then click on convert to get equivalent amount in resp. country's official currency
