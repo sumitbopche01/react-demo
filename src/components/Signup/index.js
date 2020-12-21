@@ -43,7 +43,7 @@ const SignUp = () => {
     <>
       <Container>
         <FormWrap>
-          <Icon to="/">Anyfin</Icon>
+          <Icon to="/">Brand</Icon>
           <FormContent>
             <Form onSubmit={handleSubmit}>
               <FormH1>Create your account</FormH1>

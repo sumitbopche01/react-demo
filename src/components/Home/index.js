@@ -39,7 +39,7 @@ const Home = () => {
   return (
     <>
       <SearchBarContainer>
-        <Icon>Anyfin</Icon>
+        <Icon>Brand</Icon>
         <Input
           type="text"
           placeholder="Type country name for it's details"

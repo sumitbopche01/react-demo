@@ -44,7 +44,7 @@ const SignIn = () => {
     <>
       <Container>
         <FormWrap>
-          <Icon to="/">Anyfin</Icon>
+          <Icon to="/">Brand</Icon>
           <FormContent>
             <Form onSubmit={handleSubmit}>
               <FormH1>Sign in to your account</FormH1>
